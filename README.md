@@ -31,7 +31,3 @@ Welcome to the **Flower Store** repository!
 ## Author
 
 - Max Kozich / liltekashik
-
-## License
-
-This project is licensed under the terms of the [MIT License](https://arc.net/l/quote/kicegghr).
